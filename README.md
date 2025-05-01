@@ -28,7 +28,7 @@
 
 ### 💼 Work Experience
 
-#### 🚀 **Full Stack Developer — AHZ Associates** (2023 - 2024)
+#### 🚀 **Full Stack Developer — AHZ Associates** (2024 - Current)
 - Built dynamic and responsive applications using **React**, **Next.js**, and **MySQL**
 - Collaborated with PHP developers and designers to bring Figma designs to life
 - Integrated APIs and ensured smooth deployment with Git version control
