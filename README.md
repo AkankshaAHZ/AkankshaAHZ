@@ -19,7 +19,7 @@
 
 - 🔭 I'm currently working at **AHZ Associates, Noida** as a Full Stack Developer  
 - 🌱 Currently exploring **Next.js**, **TypeScript**, and **Cloud Deployments**
-- 💬 Ask me about **MERN stack**, **Frontend Architecture**, or **Responsive UI**
+- 💬 Ask me about **MERN stack**, **Backend APIs**, **Database design**, and **Frontend Architecture**
 - 🧠 Passionate about solving real-world problems through code
 - 📫 Reach me at **akankshasingh1324@gmail.com**
 - ⚡ Fun Fact: I'm the calmest person in the room... until my code breaks 😄
